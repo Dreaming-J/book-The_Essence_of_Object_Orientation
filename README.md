@@ -74,7 +74,9 @@
 
 `gitmoji -c` 커멘드를 이용하여 사용하면, 좀 더 쉽게 사용 가능
 <br>
-[gitmoji 사용 팁(링크)](https://treasurebear.tistory.com/70)
+[gitmoji 공식 홈페이지](https://gitmoji.dev/)
+<br>
+[gitmoji 사용 팁](https://treasurebear.tistory.com/70)
 <br>
 
 # 🙋‍♀ 스터디 멤버
