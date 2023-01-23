@@ -1,1 +1,0 @@
-[링크](https://rectangular-dollar-ddf.notion.site/3-7510fde602f44de0a5fc41f4a8ef6014)
